@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I’m Shashank Dwivedi<br><br>🎓 BTech Student (3rd Year) | Aspiring Software Developer<br><br>💻 Skilled in MERN Stack, React, Java, and DSA (LeetCode enthusiast)<br><br>🚀 Built projects like a Women Safety App and Realtime Chat App<br><br>🌱 Currently learning System Design and Computer Networks<br><br>🔍 Interested in AI-powered applications & Full-Stack Development<br><br>📫 Reach me at: LinkedIn<br> | Email
+👋 Hi, I’m Shashank Dwivedi<br><br>🎓 BTech Student (final Year) | Aspiring Software Developer<br><br>💻 Skilled in MERN Stack, React, Java, and DSA (LeetCode enthusiast)<br><br>🚀 Built projects like a Women Safety App and Realtime Chat App<br><br>🌱 Currently learning System Design and Computer Networks<br><br>🔍 Interested in AI-powered applications & Full-Stack Development<br><br>📫 Reach me at: LinkedIn<br> | Email
 
 
 ## 🌐 Socials:
